@@ -1,6 +1,5 @@
 # Fastapi_CRUD_app
 
-Here's a sample README file for your FastAPI project on GitHub:
 
 **Task Management API**
 =====================
